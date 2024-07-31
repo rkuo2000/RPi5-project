@@ -2,9 +2,8 @@
 ![](https://github.com/rkuo2000/RPi5-project/blob/main/assets/images/raspberry-pi-logo.png?raw=true)
 
 ## [Raspberry Pi 5](https://www.raspberrypi.com/products/raspberry-pi-5/)
-![](https://github.com/rkuo2000/RPi5-project/blob/main/assets/images/RP-5.jpg?raw=true)
+![](https://github.com/rkuo2000/RPi5-project/blob/main/assets/images/RPi-5.jpg?raw=true)
 
----
 ### Download Raspberry Pi OS (64-bit)
 ![](https://techviral.net/wp-content/uploads/2022/02/Raspberry-PI-OS-Featured.jpg)
 
