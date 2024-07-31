@@ -1,6 +1,5 @@
 # RPi-5 projects
-
-<p><img src="assets/images/raspberry-pi-logo.png?raw=true" width="50%" height="50%"></p>
+![](assets/images/raspberry-pi-logo.png)
 
 ## [Raspberry Pi 5](https://www.raspberrypi.com/products/raspberry-pi-5/)
 ![RPi-5](assets/images/RPi-5.jpg)
