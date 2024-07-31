@@ -4,7 +4,7 @@
 ## [Raspberry Pi 5](https://www.raspberrypi.com/products/raspberry-pi-5/)
 ![](https://github.com/rkuo2000/RPi5-project/blob/main/assets/images/RPi-5.jpg?raw=true)
 
-### Download Raspberry Pi OS (64-bit)
+## Download Raspberry Pi OS (64-bit)
 ![](https://techviral.net/wp-content/uploads/2022/02/Raspberry-PI-OS-Featured.jpg)
 
 **Method 1.** Download [Raspberry Pi Imager](https://downloads.raspberrypi.org/imager/imager_latest.exe). Then, run the imager; on the operating system dialog, select `Raspberry Pi OS (64-Bit)`.<br>
